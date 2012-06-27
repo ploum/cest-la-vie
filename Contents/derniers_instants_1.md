@@ -1,0 +1,1 @@
+*Une fois rentré de vacances, nous pensons nous replonger dans le train-train quotidien, dans l'habitude. Mais pour certains, il n'y a pas de routine. Chaque pas est danger permanent. Chaque seconde est une victoire. Et je ne parle pas des profiteurs, des exploiteurs, de tout ceux qui viennent menacer notre petit confort.*

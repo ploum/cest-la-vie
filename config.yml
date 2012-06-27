@@ -1,0 +1,97 @@
+book:
+    title:            "C'est la vie !"
+    author:           "Lionel Dricot"
+    edition:          "Édition 0.1"
+    language:         fr
+    publication_date: ~
+
+    generator: { name: easybook, version: 4.4 }
+
+    contents:
+        # available content types: acknowledgement, afterword, appendix, author,
+        # chapter, conclusion, cover, dedication, edition, epilogue, foreword,
+        # glossary, introduction, license, lof (list of figures), lot (list of
+        # tables), part, preface, prologue, title, toc (table of contents)
+        - { element: cover }
+        - { element: license, content:license.md   }
+        - { element: toc   }
+        - { element: chapter, content: 0_intro.md }
+        - { element: chapter, content: combat_quotidien.md }
+        - { element: chapter, content: combat_quotidien_1.md }
+        - { element: chapter, content: angoisse.md }
+        - { element: chapter, content: angoisse_1.md }
+        - { element: chapter, content: priere.md }
+        - { element: chapter, content: priere_1.md }
+        - { element: chapter, content: proclamation.md }
+        - { element: chapter, content: proclamation_1.md }
+        - { element: chapter, content: vie_est_courte.md }
+        - { element: chapter, content: vie_est_courte_1.md }
+        - { element: chapter, content: meurtre_dans_la_nuit.md }
+        - { element: chapter, content: palavas.md }
+        - { element: chapter, content: palavas_1.md }
+        - { element: chapter, content: adieu.md }
+        - { element: chapter, content: adieu_1.md }
+        - { element: chapter, content: derniers_instants.md }
+        - { element: chapter, content: derniers_instants_1.md }
+        - { element: chapter, content: damned.md }
+        - { element: chapter, content: pisser_moquette.md }
+        - { element: chapter, content: vengeance.md }
+        - { element: chapter, content: journee_sans.md }
+        - { element: chapter, content: journee_sans_1.md }
+        - { element: chapter, content: femme_de_ma_vie.md }
+        - { element: chapter, content: femme_de_ma_vie_1.md }
+        - { element: chapter, content: bis_repetita.md }
+        - { element: chapter, content: bis_repetita_1.md }
+        - { element: chapter, content: saintes_exs.md }
+        - { element: chapter, content: voyage_enfer.md }
+        - { element: chapter, content: voyage_en_enfer_1.md }
+        - { element: chapter, content: emmerde_noel.md }
+        - { element: chapter, content: emmerde_noel_1.md }
+        - { element: chapter, content: joyeux_noel.md }
+        - { element: chapter, content: joyeux_noel_1.md }
+        - { element: acknowledgement, content: merci.md }
+        - { element: author, content:ploum.md   }
+        
+
+    editions:
+        ebook:
+            format:         epub
+            highlight_code: false
+            include_styles: true
+            labels:         ['appendix']  # labels also available for: "figure", "table"
+            theme:          clean
+            toc:
+                deep:       1
+                elements:   ["appendix", "chapter", "part", "author", "acknowledgement"]
+
+        print:
+            format:         pdf
+            highlight_code: false
+            include_styles: true
+            isbn:           ~
+            labels:         ["appendix"]  # labels also available for: "figure", "table"
+            margin:
+                top:        25mm
+                bottom:     25mm
+                inner:      30mm
+                outter:     20mm
+            page_size:      A5
+            theme:          clean
+            toc:
+                deep:       2
+                elements:   ["appendix", "chapter", "part","preface","prologue"]
+            two_sided:      true
+
+        web:
+            format:         html
+            highlight_code: true
+            include_styles: true
+            labels:         ["appendix", "chapter"]  # labels also available for: "figure", "table"
+            theme:          clean
+            toc:
+                deep:       2
+                elements:   ["appendix", "chapter"]
+
+        website:
+            extends:        web
+            format:         html_chunked
