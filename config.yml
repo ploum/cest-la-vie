@@ -15,40 +15,40 @@ book:
         - { element: cover }
         - { element: license, content:license.md   }
         - { element: toc   }
-        - { element: chapter, content: 0_intro.md }
+        - { element: foreword, content: 0_intro.md }
         - { element: chapter, content: combat_quotidien.md }
-        - { element: chapter, content: combat_quotidien_1.md }
+        - { element: part, content: combat_quotidien_1.md }
         - { element: chapter, content: angoisse.md }
-        - { element: chapter, content: angoisse_1.md }
+        - { element: part, content: angoisse_1.md }
         - { element: chapter, content: priere.md }
-        - { element: chapter, content: priere_1.md }
+        - { element: part, content: priere_1.md }
         - { element: chapter, content: proclamation.md }
-        - { element: chapter, content: proclamation_1.md }
+        - { element: part, content: proclamation_1.md }
         - { element: chapter, content: vie_est_courte.md }
-        - { element: chapter, content: vie_est_courte_1.md }
+        - { element: part, content: vie_est_courte_1.md }
         - { element: chapter, content: meurtre_dans_la_nuit.md }
         - { element: chapter, content: palavas.md }
-        - { element: chapter, content: palavas_1.md }
+        - { element: part, content: palavas_1.md }
         - { element: chapter, content: adieu.md }
-        - { element: chapter, content: adieu_1.md }
+        - { element: part, content: adieu_1.md }
         - { element: chapter, content: derniers_instants.md }
-        - { element: chapter, content: derniers_instants_1.md }
+        - { element: part, content: derniers_instants_1.md }
         - { element: chapter, content: damned.md }
         - { element: chapter, content: pisser_moquette.md }
         - { element: chapter, content: vengeance.md }
         - { element: chapter, content: journee_sans.md }
-        - { element: chapter, content: journee_sans_1.md }
+        - { element: part, content: journee_sans_1.md }
         - { element: chapter, content: femme_de_ma_vie.md }
-        - { element: chapter, content: femme_de_ma_vie_1.md }
+        - { element: part, content: femme_de_ma_vie_1.md }
         - { element: chapter, content: bis_repetita.md }
-        - { element: chapter, content: bis_repetita_1.md }
+        - { element: part, content: bis_repetita_1.md }
         - { element: chapter, content: saintes_exs.md }
         - { element: chapter, content: voyage_enfer.md }
-        - { element: chapter, content: voyage_en_enfer_1.md }
+        - { element: part, content: voyage_en_enfer_1.md }
         - { element: chapter, content: emmerde_noel.md }
-        - { element: chapter, content: emmerde_noel_1.md }
+        - { element: part, content: emmerde_noel_1.md }
         - { element: chapter, content: joyeux_noel.md }
-        - { element: chapter, content: joyeux_noel_1.md }
+        - { element: part, content: joyeux_noel_1.md }
         - { element: acknowledgement, content: merci.md }
         - { element: author, content:ploum.md   }
         
@@ -62,7 +62,7 @@ book:
             theme:          clean
             toc:
                 deep:       1
-                elements:   ["appendix", "chapter", "part", "author", "acknowledgement"]
+                elements:   ["appendix", "chapter", "author", "acknowledgement", "foreword"]
 
         print:
             format:         pdf
@@ -79,7 +79,7 @@ book:
             theme:          clean
             toc:
                 deep:       2
-                elements:   ["appendix", "chapter", "part", "author", "acknowledgement"]
+                elements:   ["appendix", "chapter", "author", "acknowledgement", "foreword"]
             two_sided:      true
 
         web:
