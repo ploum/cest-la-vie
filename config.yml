@@ -79,7 +79,7 @@ book:
             theme:          clean
             toc:
                 deep:       2
-                elements:   ["appendix", "chapter", "part","preface","prologue"]
+                elements:   ["appendix", "chapter", "part", "author", "acknowledgement"]
             two_sided:      true
 
         web:
