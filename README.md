@@ -12,5 +12,5 @@ Le format markdow signifie que :
 * Pour avoir un retour à la ligne sans changer de paragraphe (par exemple dans les dialogues), il faut deux espaces à la fin de la ligne précédente ;
 * Pour le reste, c’est assez simple.
 
-Accès direct à la version PDF : https://github.com/ploum/cest-la-vie/raw/master/Output/print/book.pdf
+Accès direct à la version PDF : https://github.com/ploum/cest-la-vie/raw/master/Output/print/book.pdf  
 Accès direct à l’ePub : https://github.com/ploum/cest-la-vie/raw/master/Output/ebook/book.epub
