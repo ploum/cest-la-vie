@@ -8,6 +8,7 @@ Vous trouverez le PDF et le ePub dans le répertoire Output. Le tout a été gé
 Les sources sont au format « Markdown » dans le répertoire Contents. Le tout est organisé via le fichier config.yml.
 
 Le format markdow signifie que :
+
 * Pour avoir un retour à la ligne sans changer de paragraphe (par exemple dans les dialogues), il faut deux espaces à la fin de la ligne précédente ;
 * Pour le reste, c’est assez simple.
 
