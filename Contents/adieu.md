@@ -2,7 +2,7 @@
 
 Dans un bruissement de liquide, mon corps s'extirpe une dernière fois de l'eau translucide. Mes mains mouillées supportent sans peine la chaleur de l'échelle métallique brûlée par le soleil. Je pousse un soupir. Une dernière fois. Si seulement je pouvais prolonger cet instant. Rester une heure de plus seulement. Dieu, je vous en supplie, arrêtez le temps ! 
 
-D'un regard, je contemple les margelles, les palmiers, le bar à présent si familiers. La dernière fois. 
+D'un regard, je contemple les margelles, les palmiers, le bar à présent si familiers. Une dernière fois. 
 
 J'attrape ma serviette reposant sur une valise entre deux transats. En m'essuyant, je constate avec satisfaction la couleur sombre aux reflets dorés de mes bras. Le maillot mouillé me colle aux jambes mais je dois me sécher. Il ne me reste plus qu'une demi-heure pour sécher. Je me dirige vers les toilettes du bar pour me changer, j'ai déjà remis la clé de mon bungalow. Mon bungalow, mon bungalow à moi et à moi seul, fidèle complice de ces deux semaines de luxure, de fêtes et de grasses matinées. Mon bon vieux bungalow que j'aperçois déjà envahi par un couple d'Allemands. Tu vas me manquer. Si seulement je pouvais rester un peu plus longtemps, juste quelques instants près de toi. N'y-a-t'il donc point de dieu pour réaliser un miracle ? Un petit et court miracle ? 
 
