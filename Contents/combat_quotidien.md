@@ -4,13 +4,13 @@ Noir ! Au loin, une faible lueur semble briller. Loin, tellement loin. À des an
 
 — Rhaaaa !
 
-Je pousse un râle de violent désespoir, je me débat et finit m'affaisser, vaincu, replongeant dans les ténèbres apaisantes de l'oubli. Mon corps, paralysé, m'abandonne. Je flotte.
+Je pousse un râle de violent désespoir, je me débat et finit par m'affaisser, vaincu, replongeant dans les ténèbres apaisantes de l'oubli. Mon corps, paralysé, m'abandonne. Je flotte.
 
 — Laisse toi aller ! Semble me murmurer une voix. Laisse toi aller juste quelques minutes. Ta lutte t'a épuisé, respire doucement, de plus en plus doucement…
 
 Une douce chaleur me pénètre, la lueur s'éloigne, je me sens si bien, je m'enfonce…
 
-— Nooooooon !
+— Nooooooon !
 
 D'un effort surhumain, j'ai bondit. D'une contorsion violente, je délivre mes bras et arrache en hurlant mon indomptable couette sauvage. Mes tempes bourdonnent, mes paupières papillonnent.
 
