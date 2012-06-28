@@ -12,7 +12,7 @@ Une douce chaleur me pénètre, la lueur s'éloigne, je me sens si bien, je m'en
 
 — Nooooooon !
 
-D'un effort surhumain, j'ai bondit. D'une contorsion violente, je délivre mes bras et arrache en hurlant mon indomptable couette sauvage. Mes tempes bourdonnent, mes paupières papillonnent.
+Dans un effort surhumain, j'ai bondi. D'une contorsion violente, je délivre mes bras et arrache en hurlant mon indomptable couette sauvage. Mes tempes bourdonnent, mes paupières papillonnent.
 
 — Merde, je me suis rendormi, déjà huit heures ! Allez, un bonne tasse de café bien fort et zou…
 
