@@ -1,6 +1,6 @@
 # Adieu #
 
-Dans un bruissement de liquide, mon corps s'extirpe une dernière fois de l'eau translucide. Mes mains mouillées supportent sans peine la chaleur de l'échelle métallique brûlée par le soleil. Je pousse un soupir. La dernière fois. Si seulement je pouvais prolonger cet instant. Rester une heure de plus seulement. Dieu, je vous en supplie, arrêtez le temps ! 
+Dans un bruissement de liquide, mon corps s'extirpe une dernière fois de l'eau translucide. Mes mains mouillées supportent sans peine la chaleur de l'échelle métallique brûlée par le soleil. Je pousse un soupir. Une dernière fois. Si seulement je pouvais prolonger cet instant. Rester une heure de plus seulement. Dieu, je vous en supplie, arrêtez le temps ! 
 
 D'un regard, je contemple les margelles, les palmiers, le bar à présent si familiers. La dernière fois. 
 
