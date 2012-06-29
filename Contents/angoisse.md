@@ -2,7 +2,7 @@
 
 Je respire un grand coup et regarde par la fenêtre. Les nuages poursuivent leur marche paisible dans l'océan azuré, les oiseaux chantent, une brise agite les grands bouleaux à la limite de mon champ de vision. Chaque arabesque dans le bois des poutres de mon plafond me semble soudain tellement passionnante, presque vivante. La nature semble si belle, si calme. « Prends-la en exemple ! » me dis-je en tentant vainement de contrôler les palpitations de ma poitrine.
 
-Une idée géniale me vient. Ce serait super de la réaliser. Mais je ne peux pas. Je ne peux pas. Après, oui après. Je vais faire des grandes choses dans ma vie. Après. Après. Calme toi.
+Une idée géniale me vient. Ce serait super de la réaliser. Mais je ne peux pas. Je ne peux pas. Après, oui après. Je vais faire des grandes choses dans ma vie. Après. Après. Calme-toi.
 
 Le grondement sourd d'un avion sur le point d'atterrir me parvient. Et si il s'écrasait ? Et si il tombait sur la maison ? Devant mes yeux, les murs s'écroulent, les fenêtres explosent, je cours. Un tremblement de terre secoue le sol, comme si l'avion n'avait pas suffit ! Tout le voisinage tremble, les bâtiment s'abattent, des hurlements retentissent. La peau écorchée, je cours pour sauver ma vie, étrangement calme. Les cadavres de mes voisins jonchent le sol et je tente de venir en aide aux survivants. Parmi les râles et les cris, je dégage un bras désarticulé. Je tombe, je me sens emportée…
 
