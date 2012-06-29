@@ -25,8 +25,7 @@ Le portique et la fouille intégrale révèlent que mon pantalon est pourvu d'un
 
 Ah mon dieu ! Je t'en supplie ! Dieu, écoute ma prière ! 
 
-Et soudain, une voix caverneuse surgie de nulle part retentit. Forte, puissante, elle envahit l'espace. Je ne comprends pas bien mais oui ! C'est bien à moi qu'elle s'adresse : 
-
+Et soudain, une voix caverneuse surgie de nulle part retentit. Forte, puissante, elle envahit l'espace. Je ne comprends pas bien mais oui ! c'est bien à moi qu'elle s'adresse :  
 — Mesdames et Messieurs, nous sommes au regret de vous annoncer que pour des raisons techniques l'avion XC-747 aura deux heures de retard.
 
 *Juillet 2006*
