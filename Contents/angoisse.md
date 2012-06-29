@@ -12,7 +12,7 @@ Demain je prendrai la route... quand tout à coup la voiture devant moi freinera
 
 Sur mon bureau mes mains tapotent et tournent machinalement les pages, mes yeux lisent mais mon esprit ne le sait pas. Je sais bien que demain j'arriverai sans encombre à destination. Pas d'accident à redouter, tout se passera bien. Malheureusement.
 
-Le soleil se couche. Déjà ? La nuit ! Ma dernière nuit ! Plus que 12h ! Je décomptais les jours et voici que je décompte les heures. Et je n'ai encore rien fait, rien… Mon estomac se révulse, le goût amer de la bille m'envahit, mon échine se glace.
+Le soleil se couche. Déjà ? La nuit ! Ma dernière nuit ! Plus que 12h ! Je décomptais les jours et voici que je décompte les heures. Et je n'ai encore rien fait, rien… Mon estomac se révulse, le goût amer de la bile m'envahit, mon échine se glace.
 
 Demain, j'ai examen.
 
