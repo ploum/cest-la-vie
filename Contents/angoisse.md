@@ -1,6 +1,6 @@
 # Angoisse #
 
-Je respire un grand coup et regarde par la fenêtre. Les nuages poursuivent leur marche paisible dans l'océan azuré, les oiseaux chantent, une brise agitent les grands bouleaux à la limite de mon champ de vision. La nature semble si belle, si calme. Chaque arabesque dans le bois des poutres me semble soudain tellement passionnante, presque vivante. Prends en exemple, calme toi. Je tente vainement de contrôler les palpitations de ma poitrine.
+Je respire un grand coup et regarde par la fenêtre. Les nuages poursuivent leur marche paisible dans l'océan azuré, les oiseaux chantent, une brise agite les grands bouleaux à la limite de mon champ de vision. La nature semble si belle, si calme. Chaque arabesque dans le bois des poutres me semble soudain tellement passionnante, presque vivante. Prends en exemple, calme toi. Je tente vainement de contrôler les palpitations de ma poitrine.
 
 Une idée géniale me vient. Ce serait super de la réaliser. Mais je ne peux pas. Je ne peux pas. Après, oui après. Je vais faire des grandes choses dans ma vie. Après. Après. Calme toi.
 
