@@ -19,7 +19,7 @@ Durant tout le trajet je contemple le paysage qui défile sous mes yeux. Le dép
 La grosse dame en débardeur jaune vif qui me précède dans la file pour l'enregistrement des bagages me prend soudain à témoin.  
 — C'est quand même scandaleux, vous ne trouvez pas ? Et par contre, pour ça ils ont de l'argent ! 
 
-Je ne sais pas de quoi elle parle mais j'acquiesce silencieusement d'un distrait mouvement de tête. Je ne bronche pas plus lorsqu'elle tente d'expliquer en petit-nègre à l'employé du comptoir que son petit fils a perdu son passeport. 
+Je ne sais pas de quoi elle parle mais j'acquiesce silencieusement d'un distrait mouvement de tête. Je ne bronche pas plus lorsqu'elle tente d'expliquer en petit nègre à l'employé du comptoir que son petit fils a perdu son passeport. 
 
 Le portique et la fouille intégrale révèlent que mon pantalon est pourvu d'une fermeture métallique faisant de moi un pirate de l'air potentiel. Et pourtant, je continue à sourire à m'asseyant sur le vieux banc en plastique à côté d'une échoppe proposant des tranches de mie de pain sous plastique. Je ne peux que penser à ce qui m'attend à quelques heures de vol d'ici : du gris et de la flotte. Des embouteillages, des injures, des voisins de train qui n'accordent pas une seconde de leur précieux regard. 
 
