@@ -8,7 +8,7 @@ Le grondement sourd d'un avion sur le point d'atterrir me parvient. Et s'il s'é
 
 J'ouvre les yeux. Par la fenêtre, j'aperçois l'avion continuer son chemin. Dommage. Mon estomac se tord en tout sens, mes mains tremblent. Et quand tout sera fini, je pourrai enfin faire tout ce dont j'ai envie.
 
-Demain je prendrai la route... quand tout à coup la voiture devant moi freinera un peu trop vite, je lui rentrerai dedans. Ma tête sera projetée dans l'airbag. Nouvel impact. C'est la voiture derrière moi qui m'emboutira. Des millions de sons, de coups. Carambolages gigantesques. Malgré mes jambes cassées, j'aurai juste la force de ramper vers le bas côté avant l'explosion générale du camion citerne qui aura été derrière. Autour de moi tomberont des morceaux de chair brûlée, des membres déchiquetés. Je serai grièvement blessé. Mais vivant. Tellement vivant. Au loin une sirène retentira. Je pourrai fermer les yeux.
+Demain, je prendrai la route. Et si… La voiture devant moi freine un peu trop vite. Je lui rentrere dedans. Je sens ma tête projetée dans l'airbag. Second choc. La voiture derrière moi m'emboutit. Des millions de sons, de coups. Carambolages gigantesques. Malgré mes jambes cassées, j'ai juste la force de ramper vers le bas côté avant l'explosion générale du camion citerne qui était derrière. Autour de moi tombent des morceaux de chair brûlée, des membres déchiquetés. Je suis grièvement blessé. Mais vivant. Tellement vivant. Au loin une sirène retentit. Je peux fermer les yeux
 
 Sur mon bureau mes mains tapotent et tournent machinalement les pages, mes yeux lisent mais mon esprit ne le sait pas. Je sais bien que demain j'arriverai sans encombre à destination. Pas d'accident à redouter, tout se passera bien. Malheureusement.
 
