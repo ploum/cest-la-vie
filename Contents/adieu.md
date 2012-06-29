@@ -16,7 +16,7 @@ Je déglutis avec peine et envoie un baiser furtif au moment où la carlingue de
 
 Durant tout le trajet je contemple le paysage qui défile sous mes yeux. Le dépaysement qui m'avait saisi à mon arrivée me semble maintenant habituel. En entrant dans l'aéroport surchauffé où l'air moite est vainement agité par de gros ventilateurs fanés, je suis traversé par une inquiétude. Moi qui me plaignais de la chaleur à mon arrivée, vais-je supporter le retour sous un ciel où le gris n'est percé que par les gouttes de pluie, le ciel se fondant dans un délicieux assortiment avec le trottoir, la rigole et la route ? Du gris et de la flotte ? Pitié seigneur, pitié ! Je t'en prie, exauce ma prière. Garde-moi encore un peu ici. 
 
-La grosse dame en débardeur jaune vif qui me précède dans la file pour l'enregistrement des bagages me prend soudain à témoin. 
+La grosse dame en débardeur jaune vif qui me précède dans la file pour l'enregistrement des bagages me prend soudain à témoin.  
 — C'est quand même scandaleux, vous ne trouvez pas ? Et par contre, pour ça ils ont de l'argent ! 
 
 Je ne sais pas de quoi elle parle mais j'acquiesce silencieusement d'un distrait mouvement de tête. Je ne bronche pas plus lorsqu'elle tente d'expliquer en petit-nègre à l'employé du comptoir que son petit fils a perdu son passeport. 
