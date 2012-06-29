@@ -4,7 +4,7 @@ Je respire un grand coup et regarde par la fenêtre. Les nuages poursuivent leur
 
 Une idée géniale me vient. Ce serait super de la réaliser. Mais je ne peux pas. Je ne peux pas. Après, oui après. Je vais faire des grandes choses dans ma vie. Après. Après. Calme-toi.
 
-Le grondement sourd d'un avion sur le point d'atterrir me parvient. Et s'il s'écrasait ? Et s'il tombait sur la maison ? Devant mes yeux les murs s'écroulent, les fenêtres explosent, je cours. Un tremblement de terre secoue le sol, comme si l'avion n'avait pas suffit ! Tout le voisinage tremble, les bâtiment s'abattent, des hurlements retentissent. La peau écorchée, je cours pour sauver ma vie, étrangement calme. Les cadavres de mes voisins jonchent le sol et je tente de venir en aide aux survivants. Parmi les râles et les cris, je dégage un bras désarticulé. Je tombe, je me sens emportée…
+Le grondement sourd d'un avion sur le point d'atterrir me parvient. Et s'il s'écrasait ? Et s'il tombait sur la maison ? Devant mes yeux les murs s'écroulent, les fenêtres explosent, je cours. Un tremblement de terre secoue le sol, comme si l'avion n'avait pas suffit ! Tout le voisinage tremble, les bâtiment s'abattent, des hurlements retentissent. La peau écorchée, je cours pour sauver ma vie, tout en demeurant étrangement calme. Les cadavres de mes voisins jonchent le sol et je tente de venir en aide aux survivants. Parmi les râles et les cris, je dégage un bras désarticulé. Je tombe, je me sens emportée…
 
 J'ouvre les yeux. Par la fenêtre, j'aperçois l'avion continuer son chemin. Dommage. Mon estomac se tord en tout sens, mes mains tremblent. Et quand tout sera fini, je pourrai enfin faire tout ce dont j'ai envie.
 
