@@ -1,4 +1,4 @@
-*Ce texte est dédié à celles et à ceux qui ont vécu le stress des examens, des mois de juin ensoleillés synonymes d'enfermement dans une chambre. Pour unique soutien, ils ne recoivent que des « Moi aussi je suis passé par là, c'est pas la mort ».* 
+*Ce texte est dédié à celles et à ceux qui ont vécu le stress des examens, des mois de juin ensoleillés synonymes d'enfermement dans une chambre. Pour unique soutien, ils ne reçoivent que des « Moi aussi je suis passé par là, c'est pas la mort ».* 
 
 *Si, c'est la mort.*
 
