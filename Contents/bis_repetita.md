@@ -7,7 +7,7 @@ Le genre d'endroit où la nourriture, préparée par un grand chef, est, comme l
 Oui, la Brasserie est de ces restaurants où l'on réserve une ère glaciaire à l'avance, où les seuls moyens de paiement acceptés sont les cartes Gold Partners Platinium 2 en 1, où le pourboire consiste généralement à rajouter un zéro au montant de l'addition. 
 
 La Brasserie est un endroit bien. 
-C'est donc tout naturellement, au milieu des luminaires art-déco et dans une ambiance tamisée, que nous retrouvons Monsieur le Directeur Général, "cher Armand" pour les intimes. Car Monsieur le Directeur Général est quelqu'un de bien. 
+C'est donc tout naturellement, au milieu des luminaires art-déco et dans une ambiance tamisée, que nous retrouvons Monsieur le Directeur Général, « cher Armand » pour les intimes. Car Monsieur le Directeur Général est quelqu'un de bien. 
 
 Ce soir, Monsieur le Directeur Général est en galante compagnie. Malgré son corps alourdi par la cinquantaine qui s'enfonce en grinçant dans le cuir lie-de-vin de la banquette, Monsieur le Directeur Général sait encore plaire aux femmes. La posture parfaitement droite et sûre dans son complet 3 pièces aux fines rayures blanches, il fait tinter en souriant son verre de cristal contre celui de son invitée, lissant machinalement d'un revers de l'index sa fine moustache parfaitement entretenue. 
 
