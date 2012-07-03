@@ -24,7 +24,7 @@ Le président du jury monta solennellement sur l'estrade vêtu de sa toge acadé
 
 Argh, le stress me noue la gorge, je tousse, je sens la bile remonter dans mon oesophage, je vais vomir. Mes mains moites glissent sur le volant. Je suis en conduite automatique sur cette route parcourue des milliers de fois en 7 ans. Je souffle, je souffle. Ma déglutition est difficile. Ce n'est qu'une proclamation après tout !
 
-La voiture semble vibrer. Pourtant je n'ai pas pris le tournant trop vite, c'est bizarre. Je sens mes roues arrières perdre de l'adhérence. C'est étonnant, il n'a pas plu. Mais, mais.. l'arrière chasse, je risque le tête-à-queue ! Instinctivement, je contrebraque, comme je l'ai vu faire dans les films, l'arrière repart dans l'autre sens, la route descend, réaccélérer pour regagner de l'adhérence. La pente. La voiture est perpendiculaire à la pente. Il faut que j'évite le tête-à-queue. Si jamais j'ai un accident, je serai en retard à coup sûr !
+La voiture semble vibrer. Pourtant je n'ai pas pris le tournant trop vite, c'est bizarre. Je sens mes roues arrières perdre de l'adhérence. C'est étonnant, il n'a pas plu. Mais, mais... l'arrière chasse, je risque le tête-à-queue ! Instinctivement, je contrebraque, comme je l'ai vu faire dans les films, l'arrière repart dans l'autre sens, la route descend, réaccélérer pour regagner de l'adhérence. La pente. La voiture est perpendiculaire à la pente. Il faut que j'évite le tête-à-queue. Si jamais j'ai un accident, je serai en retard à coup sûr !
 
 — Je vous remercie de votre attention. Maintenant, je vous prie de vous lever et de vous découvrir, nous allons passer à la proclamation.
 
@@ -38,7 +38,7 @@ Je donne un coup d'accélérateur pour tenter de mettre la voiture presque immob
 
 Je vois toujours le noir. Partout le noir. Une sirène hurle. Sans doute l'ambulance. Que vont dire mes parents si je ne suis pas proclamé ? J'essaie de parler mais où est ma bouche ? Je pense très fort : « Dîtes à mes parents que je vais d'abord au secrétariat et que je les appelle ensuite ». M'a-t-on entendu ? C'est bizarre, mais je ne sens plus trop le stress. En fait, je ne sens plus trop mon corps. Suis-je à l'envers ? Je ne sens plus le noeud de mon estomac. Je ne sens plus rien.
 
-— …ainsi que Monsieur Arthur Zanelli sont élevés au titre de Docteur en médecine. Ceci clôture la session de proclamation des Docteurs en Médecine. Je vous remercie.
+— … ainsi que Monsieur Arthur Zanelli sont élevés au titre de Docteur en médecine. Ceci clôture la session de proclamation des Docteurs en Médecine. Je vous remercie.
 Un tonnerre d'applaudissement envahit la salle. Des visages souriants s'embrassaient, exultaient. D'autres regardaient le sol fixement, se frottant les mains nerveusement, l'oeil humide.
 
 Je suis bien, merveilleusement bien là. Je devrais stresser mais ça fait tellement du bien. J'avais oublié ce que ça faisait de ne pas stresser. Il suffit de se laisser aller, doucement… Tout doucement…
