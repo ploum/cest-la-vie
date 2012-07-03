@@ -1,3 +1,3 @@
 *Originellement, j'ai publié ce texte entrecoupé d'extraits de tableaux de Bosh, artiste que j'aime particulièrement, véritable visionnaire dont le génie a su dépeindre, avec plusieurs siècles d'avances, les affres d'un centre commercial.*
 
-*Car oui, les nuits rallongent, la lumière se fait rare, le monde meurt petit à petit. Nous rentrons dans cette partie de l'année, de la vie, où seuls les rêves et les souvenirs nous font encore avancer. Pourquoi passer son temps à consommer frénétiquement si ce n'est parce que la société nous l'impose, encore plus dans la tristement nommé période « des fêtes ».*
+*Car oui, les nuits rallongent, la lumière se fait rare, le monde meurt petit à petit. Nous rentrons dans cette partie de l'année, de la vie, où seuls les rêves et les souvenirs nous font encore avancer. Pourquoi passer son temps à consommer frénétiquement si ce n'est parce que la société nous l'impose, encore plus dans la tristement nommée période « des fêtes ».*
