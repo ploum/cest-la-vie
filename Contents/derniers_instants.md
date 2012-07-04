@@ -18,7 +18,7 @@ J'ai entendu les pas dans le couloir. Cette fois-ci, ça y est, c'est pour moi. 
 
 Le pas s'arrête, hésite un instant. Le souffle coupé, je guette le moindre changement, le moindre bruit. Et si ce n'était pas mon tour ? Et si j'avais encore quelques minutes de sursis ? Rien que quelques minutes !
 
-La porte s'ouvre brusquement dans un fracas qui me semble assourdissant. Un rai de lumière blanche se pose sur mon visage et m'éblouis malgré mes paupières closes. Les pas s'approchent de mon lit, je retiens ma respiration, tétanisé.
+La porte s'ouvre brusquement dans un fracas qui me semble assourdissant. Un rai de lumière blanche se pose sur mon visage et m'éblouit malgré mes paupières closes. Les pas s'approchent de mon lit, je retiens ma respiration, tétanisé.
 
 Comme venu du fin fond de l'éternité, j'entends alors le si célèbre mais tant redouté :  
 — C'est l'heure !
