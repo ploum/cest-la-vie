@@ -12,7 +12,7 @@ Quelques adolescents, l'air blasé et entendu, font semblant de flirter sur les 
 
 L'atmosphère embaume un florilège d'eaux de toilette, les grillons se mettent à chanter. Dans les parterres, les lampes se sont allumées et les arroseurs automatiques emplissent l'air de leur staccato. Quelques couples d'habitués ont déjà pris possession des chaises en plastique les mieux situées pour assister à la soirée danses folkloriques. La même soirée à laquelle ils assistent chaque année depuis les 17 ans qu'ils viennent en vacances ici. Ensemble, ils critiquent la propreté, l'organisation et les autres clients, tombant tous d'accord que ce n'est plus pareil, qu'avant mon bon monsieur, on ne se serait pas permis tout ça !
 
-Sur le terrain de pétanque, le gros Marcel est encore torse nu, dégoulinant de sueur. Acharné, il continue à s'entraîner pour le tournoi de demain, évaluant d'un air professionnel et connaisseur les boules et la consistance du terrain. Son ventre proéminent cache son mini short poussiéreux. C'est vulgaire, choquant.
+Sur le terrain de pétanque, le gros Marcel est encore torse nu, dégoulinant de sueur. Acharné, il continue à s'entraîner pour le tournoi de demain, évaluant d'un air professionnel et connaisseur les boules et la consistance du terrain. Son ventre proéminent cache son mini short poussiéreux. C'est vulgaire.
 
 Certes, il y a moins d'une heure, tout ce petit monde se trémoussait avec un minuscule triangle de tissu pour tout vêtement mais là il est 7h. Il est 7h et tout le monde arbore fièrement sa chemise hawaïenne et son pantalon en skaï.
 
