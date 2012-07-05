@@ -16,7 +16,7 @@ Dans un effort surhumain, j'ai bondi. D'une contorsion violente, je délivre mes
 
 — Merde, je me suis rendormi, déjà huit heures ! Allez, une bonne tasse de café bien fort et zou…
 
-Je sens peser sur moi la présence de la couette qui, blottie dans un coin, est humiliée mais pas encore vaincue. Je la perçois. Je l'entends :  
+Blottie dans un coin, humiliée, la couette ne s'avoue pas vaincue. Je la sens, je l'entends :  
 — Prends-moi dans tes bras, juste quelques minutes. Pose ton visage contre moi. Quelques secondes seulement… Nous étions si bien tous les deux.
 
 Une pointe de sueur perle sur mon front. Je me concentre, je dois résister jusque ce soir. Mon esprit dérive déjà. Résister. L'adrénaline ! Voilà la solution, l'adrénaline ! Je tourne la tête vers le réveil.  
