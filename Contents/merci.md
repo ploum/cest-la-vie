@@ -10,6 +10,6 @@ Tout d'abord, un grand merci à tous ceux qui ont participé, de près ou de loi
 
 Au niveau logiciel, je prends mes notes initiales et mes idées dans Getting Things GNOME. Je rédige ensuite dans Pyroom. Je corrige avec Gedit et j'ai finalement publié avec EasyBook. Merci donc à tous les contributeurs de ces projets.
 
-Enfin, mon orthographe déplorable vous aurait gâché tout le plaisir de la lecture sans les conseils et le travail acharné de l'équipe de relecture de choc: .
+Enfin, mon orthographe déplorable vous aurait gâché tout le plaisir de la lecture sans les conseils et le travail acharné de l'équipe de relecture de choc: Pierre Defretin.
 
 Un énorme merci à eux et à vous tous.
