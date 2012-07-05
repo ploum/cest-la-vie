@@ -2,7 +2,7 @@
 
 Il est 7h.
 
-Il est 7h, les retardataires reviennent de la plage, la peau brûlée par le sel et les embruns, les sandales crissantes de sable sur le macadam du trottoir, qui un ballon gonflable sous le bras, qui un matelas pneumatique, un parasol ou le dernier Mary Higgins Clark.
+Il est 7h, les retardataires reviennent de la plage, la peau brûlée par le sel et les embruns, les sandales crissantes de sable sur le macadam du trottoir, un ballon gonflable sous le bras, un matelas pneumatique, un parasol ou le dernier Mary Higgins Clark.
 
 Slick. Slick. Le couinement des tatanes rythme le pas de la petite armée en slips de bain et casquettes aux couleurs d'écuries de formule 1. Dans le lointain, le chuintement ininterrompu des douches se mêle aux senteurs de jasmin, de gasoil et de crème solaire refroidie.
 
