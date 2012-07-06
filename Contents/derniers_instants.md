@@ -2,7 +2,7 @@
 
 Tic, tac, tic, tac…  
 
-Les yeux fermés, j'entends les secondes s'égrener comme les grains de sables d'un monstrueux sablier. Mon esprit effiloche à grand peine les dernières brumes d'un sommeil agité.
+Les yeux fermés, j'entends les secondes s'égrener comme les grains de sable d'un monstrueux sablier. Mon esprit effiloche à grand'peine les dernières brumes d'un sommeil agité.
 
 Tic…
 
@@ -14,7 +14,7 @@ Chaque seconde, chaque atome d'instant me rapproche un peu plus de l'inéluctabl
 
 Tic…
 
-J'ai entendu les pas dans le couloir. Cette fois-ci, ça y est, c'est pour moi. Je ne pourrai plus y échapper. Je me blottine en position foetale comme pour me protéger, mes doigts s'agrippent à la couverture, imprimant la marque de mes ongles dans ma chair.
+J'ai entendu les pas dans le couloir. Cette fois-ci, ça y est, c'est pour moi. Je ne pourrai plus y échapper. Je me blottine en position fœtale comme pour me protéger, mes doigts s'agrippent à la couverture, imprimant la marque de mes ongles dans ma chair.
 
 Le pas s'arrête, hésite un instant. Le souffle coupé, je guette le moindre changement, le moindre bruit. Et si ce n'était pas mon tour ? Et si j'avais encore quelques minutes de sursis ? Rien que quelques minutes !
 
@@ -25,6 +25,6 @@ Comme venu du fin fond de l'éternité, j'entends alors le si célèbre mais tan
 
 Dans un dernier sursaut d'orgueil, je tente de résister, de retarder l'échéance fatale en arrachant quelques frêles moments de désespoir.  
 — Mmmm, encore 5 minutes…  
-— Non, debout, tu vas être en retard à l'école ! 
+— Non, debout, tu vas être en retard à l'école !
 
 *Le 29 octobre 2007*
