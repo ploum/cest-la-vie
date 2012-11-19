@@ -49,7 +49,7 @@ book:
         - { element: part, content: emmerde_noel_1.md }
         - { element: chapter, content: joyeux_noel.md }
         - { element: part, content: joyeux_noel_1.md }
-        - { element: part, content: plus_jamais.md }
+        - { element: chapter, content: plus_jamais.md }
         - { element: acknowledgement, content: merci.md }
         - { element: author, content:ploum.md   }
         
