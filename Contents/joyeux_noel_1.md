@@ -6,4 +6,6 @@
 
 *Au cours du repas, qui fut d'un ennui mortel, j'ai décidé de me venger en rédigeant, sur mon carnet de notes, les prémices du texte que vous venez de lire. La vieille en face de moi cachait de la nourriture dans sa serviette, pour ses chats et, après cela, les idées se sont enchainées. Ce qui m'a d'ailleurs fait réprimer des fous rires plusieurs fois.*
 
-*Alors que le final s'annonçait particulièrement ennuyeux, alors que je n'étais entouré que de vieux, je peux dire que je me suis particulièrement amusé. Au fond, c'est un peu comme la vie. Vous ne trouvez pas ?*
+*Alors que le final s'annonçait particulièrement ennuyeux, que je n'étais entouré que de vieux, je peux dire que je me suis particulièrement amusé. Au fond, c'est un peu comme la vie. Vous ne trouvez pas ?*
+
+*Autant s'amuser de tout, jusqu'au bout. Et puis arrive l'inéluctable : on tourne la dernière page et on ne rit plus. Tout au plus reste-t'il un souvenir de rire.*
