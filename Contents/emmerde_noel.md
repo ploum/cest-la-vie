@@ -45,6 +45,6 @@ Deux petites mains ornées de moufles blanches agrippèrent subitement le paquet
 
 — Oh, une MaPoupée (tm) qui fait de l'équitation !
 
-Toutes les lumières, tous les luminaires semblaient s'être donné rendez-vous dans les pupilles de la petite fille, une sarabande d'étoiles jaillit de sous ses paupières. À cet instant, une main maternelle surgit de la foule et l'agrippa par le capuchon avant de la tirer. Zoé eut juste le temps de faire un petit signe de main et de lancer un sourire éblouissant :
+Toutes les lumières, tous les luminaires semblaient s'être donné rendez-vous dans les pupilles de la petite fille, une sarabande d'étoiles jaillit de sous ses paupières. À cet instant, une main maternelle surgit de la foule et l'agrippa par le capuchon avant de la tirer à elle. Zoé eut juste le temps de faire un petit signe de main et de lancer un sourire éblouissant :
 
 — Merci Père Noël !
