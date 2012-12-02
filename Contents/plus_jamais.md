@@ -22,7 +22,7 @@ Je devrais agir tout suite, vider sa garde robe, éliminer toute trace. Ou bien 
 
 Ma vie me semble terminée, anéantie. Pourrais-je m'en remettre ? Pourrais-je un jour sourire, avoir du plaisir ? Le futur ressemble à un long tunnel obscur, pareil au four du crématorium où je l'ai laissé partir ce matin dans une boîte en bois. Je me sens si seule, si désemparée. J'envie ceux qui ont une religion à laquelle se raccrocher. Si seulement je pouvais croire à un paradis ou n'importe quelle fadaise de ce genre. Tout serait tellement plus simple.
 
-Machinalement, je me lève et commence à ranger. Comme si rien ne s'était passé. Comme si il allait revenir d'un instant à l'autre. Son courrier ? Sur son bureau, qu'il le trouve en rentrant.
+Machinalement, je me lève et commence à ranger. Comme si rien ne s'était passé. Comme s'il allait revenir d'un instant à l'autre. Son courrier ? Sur son bureau, qu'il le trouve en rentrant.
 
 Une clé tourne dans la serrure.  
 — Coucou c'est moi ! On mange quoi ce soir ?  
