@@ -19,7 +19,7 @@ class TextPlugin implements EventSubscriberInterface
         $item = $event->getItem();
         $item['content'] = str_replace(
             '<p>*</p>',
-            '<img src="./images/separator.png" class="separator center" />',
+            '<p style="text-align: center;">*</p>',
             $item['content']
 
         );
