@@ -12,4 +12,4 @@ Au niveau logiciel, je prends mes notes initiales et mes idées dans Getting Thi
 
 Enfin, mon orthographe déplorable vous aurait gâché tout le plaisir de la lecture sans les conseils et le travail acharné de l'équipe de relecture de choc: Pierre Defretin.
 
-Un énorme merci à eux et à vous tous.
+Un énorme merci à eux et à vous tous pour m'avoir lu. Si vous avez apprécié cette lecture, je ne vous demanderais qu'une chose : partagez-la ! Partagez ces textes, l'écrit ne vit que lorsqu'il est lu.

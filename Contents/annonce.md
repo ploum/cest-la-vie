@@ -20,4 +20,4 @@ Chaque fleur, chaque passant, chaque odeur, chaque goutte de pluie. J'en profite
 
 Si peu de temps pour l'essentiel, si peu de temps pour mes rêves. Au travail !
 
-*Janvier 2013*
+*Limelette, janvier 2013*
